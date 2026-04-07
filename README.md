@@ -16,6 +16,9 @@ Este projeto foi criado para fins de portfólio, com foco em demonstrar habilida
 
 ---
 
+🔗 **Link do site:**  
+*(https://andre-levy.github.io/projeto-streaming/)*
+
 ## 🛠️ Tecnologias Utilizadas
 - HTML5  
 - CSS3  
